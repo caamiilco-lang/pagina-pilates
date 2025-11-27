@@ -1,0 +1,41 @@
+:root {
+  --color-primario: #8e9aaf;       /* Azul suave */
+  --color-secundario: #d8e2dc;     /* Verde claro */
+  --color-fondo: #fafafa;
+  --color-texto: #333;
+  --color-blanco: #fff;
+  --sombra: 0 4px 12px rgba(0,0,0,0.08);
+  --radio: 12px;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenedor {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.hero {
+  background: linear-gradient(135deg, var(--color-primario), #a3b1c6);
+  color: var(--color-blanco);
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  opacity: 0.95;
+}
