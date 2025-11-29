@@ -78,3 +78,8 @@
   margin-bottom: 12px;
   color: var(--color-primario);
 }
+
+.tarjeta p {
+  margin-bottom: 16px;
+  color: #555;
+}
