@@ -73,3 +73,8 @@
   transform: translateY(-6px);
 }
 
+.tarjeta h3 {
+  font-size: 1.4rem;
+  margin-bottom: 12px;
+  color: var(--color-primario);
+}
