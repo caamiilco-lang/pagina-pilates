@@ -50,3 +50,10 @@
   margin-bottom: 30px;
   color: var(--color-primario);
 }
+
+.tarjetas-servicios {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
