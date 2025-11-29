@@ -57,3 +57,14 @@
   gap: 24px;
   justify-content: center;
 }
+
+.tarjeta {
+  background: var(--color-blanco);
+  border-radius: var(--radio);
+  padding: 28px;
+  width: 100%;
+  max-width: 300px;
+  text-align: center;
+  box-shadow: var(--sombra);
+  transition: transform 0.3s ease;
+}
