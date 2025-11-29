@@ -43,3 +43,10 @@
 .seccion {
   padding: 50px 0;
 }
+
+.seccion h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: var(--color-primario);
+}
