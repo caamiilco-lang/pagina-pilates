@@ -83,3 +83,9 @@
   margin-bottom: 16px;
   color: #555;
 }
+
+.precio {
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: var(--color-primario);
+}
