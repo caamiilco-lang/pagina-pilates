@@ -89,3 +89,9 @@
   font-size: 1.3rem;
   color: var(--color-primario);
 }
+
+.seccion ul li::before {
+  content: "✅";
+  margin-right: 10px;
+  font-size: 1.3rem;
+}
