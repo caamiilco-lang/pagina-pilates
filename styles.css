@@ -124,3 +124,10 @@
   border: 2px solid var(--color-primario);
   color: var(--color-primario);
 }
+
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
