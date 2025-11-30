@@ -95,3 +95,11 @@
   margin-right: 10px;
   font-size: 1.3rem;
 }
+
+.botones-contacto {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
