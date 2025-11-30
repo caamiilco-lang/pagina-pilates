@@ -118,3 +118,9 @@
 .btn:hover {
   background: #6b7a99;
 }
+
+.btn-secundario {
+  background: transparent;
+  border: 2px solid var(--color-primario);
+  color: var(--color-primario);
+}
